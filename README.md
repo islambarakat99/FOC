@@ -1,6 +1,6 @@
 # PMSM Field-Oriented Control (FOC) – MATLAB/Simulink
 
-An open-source MATLAB/Simulink implementation of **Field-Oriented Control (FOC)** for Permanent Magnet Synchronous Motors (PMSM).
+A MATLAB/Simulink implementation of **Field-Oriented Control (FOC)** for Permanent Magnet Synchronous Motors (PMSM).
 
 ## Overview
 
@@ -27,15 +27,13 @@ The implementation covers the fundamental elements of a PMSM FOC system, includi
 - Space Vector Pulse Width Modulation (SVPWM).
 - PMSM mathematical modeling and simulation.
 
-*The exact implemented features depend on the models and files included in this repository.*
 
 ## Requirements
 
-- MATLAB
+- MATLAB (R2021a or higher)
 - Simulink
-- Additional MATLAB toolboxes as required by the included models.
-
-The MATLAB/Simulink version and toolbox dependencies should be specified when applicable.
+- Simscape Electrical
+- Embedded Coder
 
 ## Getting Started
 
