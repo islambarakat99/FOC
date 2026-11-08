@@ -1,0 +1,14 @@
+# MATLAB / Simulink auto-generated files and cache
+slprj/
+*.slxc
+*.asv
+
+# Compiled MEX files (platform-dependent binaries)
+*.mexw64
+*.mexw32
+*.mexa64
+*.mexmaci64
+
+# MATLAB crash dumps and temporary files
+*.autosave
+*.dmp
